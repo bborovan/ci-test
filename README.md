@@ -1,3 +1,3 @@
 # ci-test
 
-test edit 25
+test edit 26
